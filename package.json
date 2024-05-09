@@ -4,8 +4,13 @@
   "description": "Requests to ChatGPT to improve the CV",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
+  "type": "module",
   "author": "Vasyl Onopriienko",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.43.0"
+  }
 }
