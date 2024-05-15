@@ -11,6 +11,6 @@
   "author": "Vasyl Onopriienko",
   "license": "ISC",
   "dependencies": {
-    "openai": "^4.43.0"
+    "openai": "^4.46.0"
   }
 }
