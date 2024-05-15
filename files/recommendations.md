@@ -1,0 +1,1 @@
+Your projects on the average are insufficiently described. Please, update your Past Projects in People. Take advantage of using "Assignments History" Informer on your Telescope profile to recall your all previous EPAM projects. Study hints explanation for details.
